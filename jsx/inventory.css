@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+    .top1 {
+        position: absolute; 
+        width: 1519px;
+        height: 350px;
+        left: 0px;
+        top: 73px;
+        object-fit:cover;
+    }
+    .head{
+        position: absolute;
+width: 413px;
+height: 109px;
+left: 700px;
+z-index: 99;
+top: 185px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 76px;
+color: #ff0000;
+    }
+    .head1 a{
+             position: absolute;
+left: 700px;
+top: 250px;
+font-family: 'Poppins';
+font-style: normal;
+z-index: 99;
+font-weight: 400;
+font-size: 25px;
+color: #000000;
+text-decoration: none;
+}
+    .head2 a{
+             position: absolute;
+left: 774px;
+top: 250px;
+z-index: 99;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+color: #000000;
+text-decoration: none;
+}
+.head1 a:hover{
+        color: rgb(255, 0, 0);
+    }
+    .search{
+        position: absolute;
+width: 300px;
+height: 48px;
+left: 650px;
+top: 475px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 45px;
+color: #000000;
+}
+.car{
+    position: absolute;
+    width: 1000px;
+    height: 48px;
+    left: 297px;
+    top: 500px;
+    font-family:"Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 45px;
+    background: #EBEBEB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 22px;
+}
+.conin1{
+    position:absolute;
+    left: 90px;
+    top:570px;
+    width: 400px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+.conin2{
+    position:absolute;
+    left: 565px;
+    top:570px;
+    width: 400px;
+    height: 500px;
+   background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+.conin3{
+    position:absolute;
+    left: 1035px;
+    top:570px;
+    width: 400px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    border-radius: 10px;
+}
+.conin4{
+    position:absolute;
+    left: 90px;
+    top:1100px;
+    width: 400px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    overflow: hidden; 
+    border-radius: 10px;
+}
+.conin5{
+    position:absolute;
+    left: 565px;
+    top:1100px;
+    width: 400px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    overflow: hidden; 
+    border-radius: 10px;
+}
+.conin6{
+    position:absolute;
+    left: 1035px;
+    top:1100px;
+    width: 400px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    overflow: hidden; 
+    border-radius: 10px;
+}
+.conin7{
+    position:absolute;
+    left: 90px;
+    top:1630px;
+    width: 400px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    overflow: hidden; 
+    border-radius: 10px;
+}
+.c1 {
+        position: absolute;
+        left: 0px;
+        top:0px;
+        width: 450px;
+        height: 350px;
+        transition: 0.3s;
+	transform: scale(1);
+	transition: .3s ease-in-out;
+    }
+    .c1:hover{
+  transform: scale(1.05);
+    }
+    .c2 {
+        position: absolute;
+        left: 0px;
+        width: 450px;
+        top: 0px;
+        height: 350px;
+        object-fit: cover;
+      
+        transition: 0.3s;
+
+	transform: scale(1);
+
+	transition: .3s ease-in-out;
+    }
+    .c2:hover{
+     
+        transform: scale(1.05);
+    }
+    .c3 {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        width: 450px;
+        height: 350px;
+        object-fit: cover;
+        transition: 0.3s;
+	transform: scale(1);
+	transition: .3s ease-in-out;
+    }
+    .c3:hover{
+    
+        transform: scale(1.05);
+    }
+    .c4 {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        width: 450px;
+        height: 350px;
+        object-fit: cover;
+        transition: 0.3s;
+	transform: scale(1);
+	transition: .3s ease-in-out;
+    }
+    .c4:hover{
+
+        transform: scale(1.05);
+    }
+    .ctxt1 a{
+        position: absolute;
+        font-style: 'Poppins';
+        font-weight: 500;
+        font-size: 28px;
+    
+        text-decoration: none;
+        color: #000000;
+    }
+    .ctxt1 a:hover{
+        color: red;
+    }
+    .c11{
+        position: relative;
+        left: 90px;
+        width: 450px;
+        height: 120px;
+        top: 830px;
+    }

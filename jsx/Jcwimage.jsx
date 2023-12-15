@@ -1,0 +1,39 @@
+export const Jcw = [
+	{
+	  image:
+		'https://route66cars.in/storage/app/uploads/public/638/eef/3b6/638eef3b6aca1024306546.jpeg'
+	},
+	{
+	  image:
+		'https://route66cars.in/storage/app/uploads/public/638/eef/3bc/638eef3bc3d3c782523023.jpeg'
+		
+	},
+	{
+	  image:
+	  'https://route66cars.in/storage/app/uploads/public/638/eef/3bc/638eef3bc8662791334428.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/638/eef/43b/638eef43bb7ee274804985.jpeg'
+	},
+	{
+		image:
+        'https://route66cars.in/storage/app/uploads/public/638/eef/43c/638eef43c94ce099005898.jpeg'
+    },
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/638/eef/5a7/638eef5a724a9305164162.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/638/eef/5a7/638eef5a73be9204707218.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/638/eef/5ab/638eef5abd4cb606858921.jpeg'
+	},
+    {
+         image:
+         'https://route66cars.in/storage/app/uploads/public/638/eef/5ad/638eef5adb56c566618099.jpeg'
+    }
+];
